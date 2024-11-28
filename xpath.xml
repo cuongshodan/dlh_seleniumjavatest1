@@ -1,0 +1,23 @@
+
+
+xpath=//map/area[2]
+xpath=//*[@id="MainImageContent"]/map/area[2]
+xpath=/html/body/div[2]/div[2]/div[2]/div/map/area[2]
+<test xpath=// area[@alt='Fish' ]></test>
+
+//*[@id="QuickLinks"]/a[1]/img
+//img[@src="../images/sm_fish.gif"]
+
+#MenuContent > a:nth-child(3)
+
+xpath=//img[@alt='Kevin DEMOERP']
+
+xpath=(.//*[normalize-space(text()) and normalize-space(.)='À propos'])[1]/following::span[1]
+
+#root > div > div._header_itpsy_24 > div._header_cnx5g_1 > div._farItems_cnx5g_12 > div >
+div._itemWrapper_1azev_60._user_cnx5g_27._btn-group_1ncgs_3471 > button
+
+css=#root > div > div._header_itpsy_24 > div._header_cnx5g_1 > div._farItems_cnx5g_12 > div >
+div._itemWrapper_1azev_60._user_cnx5g_27._btn-group_1ncgs_3471 > button
+
+css=#WelcomeContent
